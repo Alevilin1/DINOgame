@@ -1,0 +1,8 @@
+draw_self()
+draw_set_halign(1)
+draw_set_valign(1)
+draw_set_font(Fonte2)
+draw_text_transformed(x,y,Texto,texto_x,texto_y,0)
+draw_set_halign(-1)
+draw_set_valign(-1)
+draw_set_font(-1)
